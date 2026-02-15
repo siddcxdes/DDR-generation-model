@@ -1,0 +1,33 @@
+Architecture Overview (Plain Words)
+
+1. Input
+   - A property inspection PDF is placed inside the `input` folder.
+   - The current scripts look for a file named `Sample Report.pdf`.
+
+2. Phase 1: Text Extraction
+   - `extract_text.py` opens the PDF with pdfplumber.
+   - It reads every page, grabs the text, and writes it to `extracted/report_text.txt`.
+
+3. Phase 2: Structured Observation Extraction
+   - `extract_observation.py` sends the raw text to the local Ollama model `llama3.2`.
+   - The script asks the model to pull exactly seven impacted areas and saves them in `extracted/observations_raw.json`.
+
+4. Phase 3: Cleaning and Tagging
+   - `clean_observations.py` reviews the raw JSON.
+   - It adds clear field names, finds root cause tags (tile joint failure, plumbing, external wall, duct), and records checklist answers and missing info.
+   - Output is `extracted/observations_clean.json`.
+
+5. Phase 4: Reasoning Layer
+   - `add_reasoning.py` looks at the clean data and applies simple Python rules.
+   - It explains each root cause, gives a severity level, and writes the result to `extracted/observations_reasoned.json`.
+
+6. Phase 5: DDR Generation
+   - `generate_ddr.py` passes the reasoned data into the LLM with a strict prompt.
+   - It builds the final DDR text, adds the missing info list, checklist answers, conclusion, and disclaimer.
+   - Output is `output/final_ddr.txt`.
+
+7. Orchestration and UI
+   - `pipeline/run_all.py` runs every phase in order for terminal users.
+   - `app.py` is a Streamlit interface that lets a user upload a PDF and run the same phases with progress updates.
+
+This is a straight pipeline: PDF enters at Phase 1, structured data moves through Phases 2 to 4, the DDR is written in Phase 5, and the UI simply triggers the same scripts.
