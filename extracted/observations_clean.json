@@ -1,0 +1,242 @@
+{
+  "summary": {
+    "total_impacted_areas": 7,
+    "total_affected_rooms": 7,
+    "affected_rooms_list": [
+      "Hall",
+      "Bedroom",
+      "Master Bedroom",
+      "Kitchen",
+      "Master Bedroom-2",
+      "Parking Area",
+      "Common Bathroom-2"
+    ],
+    "root_cause_types_found": [
+      "Tile Joint Failure",
+      "Concealed Plumbing Leakage",
+      "External Wall Defect"
+    ]
+  },
+  "observations": [
+    {
+      "impacted_area_number": 1,
+      "affected_area": "Hall",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Common Bathroom",
+      "source_issue": "Tile joint gaps",
+      "source_description": "",
+      "root_cause_category": "Tile Joint Failure",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 2,
+      "affected_area": "Bedroom",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Common Bathroom",
+      "source_issue": "Tile joint gaps",
+      "source_description": "",
+      "root_cause_category": "Tile Joint Failure",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 3,
+      "affected_area": "Master Bedroom",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Master Bedroom Bathroom",
+      "source_issue": "Tile joint gaps",
+      "source_description": "",
+      "root_cause_category": "Tile Joint Failure",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 4,
+      "affected_area": "Kitchen",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Master Bedroom Bathroom",
+      "source_issue": "Tile joint gaps",
+      "source_description": "",
+      "root_cause_category": "Tile Joint Failure",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 5,
+      "affected_area": "Master Bedroom-2",
+      "affected_location": "Wall surface",
+      "issue_observed": "Dampness and Efflorescence",
+      "issue_description": "",
+      "source_area": "External wall crack and duct issue",
+      "source_issue": "External wall issues",
+      "source_description": "",
+      "root_cause_category": "External Wall Defect",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 6,
+      "affected_area": "Parking Area",
+      "affected_location": "Ceiling",
+      "issue_observed": "Seepage",
+      "issue_description": "",
+      "source_area": "Common Bathroom plumbing issue and tile joint gaps",
+      "source_issue": "Plumbing problems",
+      "source_description": "",
+      "root_cause_category": "Concealed Plumbing Leakage",
+      "needs_further_investigation": true
+    },
+    {
+      "impacted_area_number": 7,
+      "affected_area": "Common Bathroom-2",
+      "affected_location": "Ceiling",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Flat No. 203 tile joint open and",
+      "source_issue": "Unknown issue",
+      "source_description": "",
+      "root_cause_category": "Requires Investigation",
+      "needs_further_investigation": false
+    }
+  ],
+  "observations_by_area": {
+    "Hall": [
+      {
+        "impacted_area_number": 1,
+        "affected_area": "Hall",
+        "affected_location": "Skirting level",
+        "issue_observed": "Dampness",
+        "issue_description": "",
+        "source_area": "Common Bathroom",
+        "source_issue": "Tile joint gaps",
+        "source_description": "",
+        "root_cause_category": "Tile Joint Failure",
+        "needs_further_investigation": false
+      }
+    ],
+    "Bedroom": [
+      {
+        "impacted_area_number": 2,
+        "affected_area": "Bedroom",
+        "affected_location": "Skirting level",
+        "issue_observed": "Dampness",
+        "issue_description": "",
+        "source_area": "Common Bathroom",
+        "source_issue": "Tile joint gaps",
+        "source_description": "",
+        "root_cause_category": "Tile Joint Failure",
+        "needs_further_investigation": false
+      }
+    ],
+    "Master Bedroom": [
+      {
+        "impacted_area_number": 3,
+        "affected_area": "Master Bedroom",
+        "affected_location": "Skirting level",
+        "issue_observed": "Dampness",
+        "issue_description": "",
+        "source_area": "Master Bedroom Bathroom",
+        "source_issue": "Tile joint gaps",
+        "source_description": "",
+        "root_cause_category": "Tile Joint Failure",
+        "needs_further_investigation": false
+      }
+    ],
+    "Kitchen": [
+      {
+        "impacted_area_number": 4,
+        "affected_area": "Kitchen",
+        "affected_location": "Skirting level",
+        "issue_observed": "Dampness",
+        "issue_description": "",
+        "source_area": "Master Bedroom Bathroom",
+        "source_issue": "Tile joint gaps",
+        "source_description": "",
+        "root_cause_category": "Tile Joint Failure",
+        "needs_further_investigation": false
+      }
+    ],
+    "Master Bedroom-2": [
+      {
+        "impacted_area_number": 5,
+        "affected_area": "Master Bedroom-2",
+        "affected_location": "Wall surface",
+        "issue_observed": "Dampness and Efflorescence",
+        "issue_description": "",
+        "source_area": "External wall crack and duct issue",
+        "source_issue": "External wall issues",
+        "source_description": "",
+        "root_cause_category": "External Wall Defect",
+        "needs_further_investigation": false
+      }
+    ],
+    "Parking Area": [
+      {
+        "impacted_area_number": 6,
+        "affected_area": "Parking Area",
+        "affected_location": "Ceiling",
+        "issue_observed": "Seepage",
+        "issue_description": "",
+        "source_area": "Common Bathroom plumbing issue and tile joint gaps",
+        "source_issue": "Plumbing problems",
+        "source_description": "",
+        "root_cause_category": "Concealed Plumbing Leakage",
+        "needs_further_investigation": true
+      }
+    ],
+    "Common Bathroom-2": [
+      {
+        "impacted_area_number": 7,
+        "affected_area": "Common Bathroom-2",
+        "affected_location": "Ceiling",
+        "issue_observed": "Dampness",
+        "issue_description": "",
+        "source_area": "Flat No. 203 tile joint open and",
+        "source_issue": "Unknown issue",
+        "source_description": "",
+        "root_cause_category": "Requires Investigation",
+        "needs_further_investigation": false
+      }
+    ]
+  },
+  "observations_by_root_cause": {
+    "Tile Joint Failure": [
+      "Hall",
+      "Bedroom",
+      "Master Bedroom",
+      "Kitchen"
+    ],
+    "Concealed Plumbing Leakage": [
+      "Parking Area"
+    ],
+    "External Wall Defect": [
+      "Master Bedroom-2"
+    ]
+  },
+  "checklist_findings": {
+    "leakage_timing": "All time",
+    "concealed_plumbing_leakage": "Yes",
+    "nahani_trap_damage": "Yes",
+    "tile_joint_gaps": "Yes",
+    "gaps_around_nahani_trap": "Yes",
+    "loose_plumbing_joints": "Yes",
+    "external_wall_cracks": "Moderate",
+    "external_plumbing_pipes_cracked": "Moderate",
+    "algae_fungus_on_external_wall": "Moderate",
+    "internal_wc_bath_leakage": "Yes"
+  },
+  "missing_information": [
+    "Hidden plumbing conditions behind walls not inspected",
+    "Structural elements behind wall finishes not visible",
+    "No thermal imaging data available",
+    "Seasonal variation in leakage not assessed (single inspection)",
+    "Exact pipe locations in concealed plumbing not mapped",
+    "Water pressure testing not conducted",
+    "Terrace waterproofing condition not inspected (relevant for top floor units)",
+    "Age and condition of original waterproofing not known"
+  ]
+}

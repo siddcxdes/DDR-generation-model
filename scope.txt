@@ -1,0 +1,9 @@
+First - add image analysis. Use a vision model to look at the 
+photos and extract information from them. Like detecting water 
+stains or cracks visually.
+
+Second - add OCR as a fallback. If pdfplumber can't extract text, 
+automatically switch to OCR.
+
+Third - use a better LLM. GPT-5 or Claude would give more accurate 
+extractions. Or fine-tune a model specifically for inspection reports.

@@ -1,0 +1,100 @@
+[
+  {
+    "impacted_area_number": 1,
+    "negative_side": {
+      "area": "Hall",
+      "location": "Skirting level",
+      "issue": "Dampness",
+      "description": ""
+    },
+    "positive_side": {
+      "area": "Common Bathroom",
+      "issue": "Tile joint gaps",
+      "description": ""
+    }
+  },
+  {
+    "impacted_area_number": 2,
+    "negative_side": {
+      "area": "Bedroom",
+      "location": "Skirting level",
+      "issue": "Dampness",
+      "description": ""
+    },
+    "positive_side": {
+      "area": "Common Bathroom",
+      "issue": "Tile joint gaps",
+      "description": ""
+    }
+  },
+  {
+    "impacted_area_number": 3,
+    "negative_side": {
+      "area": "Master Bedroom",
+      "location": "Skirting level",
+      "issue": "Dampness",
+      "description": ""
+    },
+    "positive_side": {
+      "area": "Master Bedroom Bathroom",
+      "issue": "Tile joint gaps",
+      "description": ""
+    }
+  },
+  {
+    "impacted_area_number": 4,
+    "negative_side": {
+      "area": "Kitchen",
+      "location": "Skirting level",
+      "issue": "Dampness",
+      "description": ""
+    },
+    "positive_side": {
+      "area": "Master Bedroom Bathroom",
+      "issue": "Tile joint gaps",
+      "description": ""
+    }
+  },
+  {
+    "impacted_area_number": 5,
+    "negative_side": {
+      "area": "Master Bedroom-2",
+      "location": "Wall surface",
+      "issue": "Dampness and Efflorescence",
+      "description": ""
+    },
+    "positive_side": {
+      "area": "External wall crack and duct issue",
+      "issue": "External wall issues",
+      "description": ""
+    }
+  },
+  {
+    "impacted_area_number": 6,
+    "negative_side": {
+      "area": "Parking Area",
+      "location": "Ceiling",
+      "issue": "Seepage",
+      "description": ""
+    },
+    "positive_side": {
+      "area": "Common Bathroom plumbing issue and tile joint gaps",
+      "issue": "Plumbing problems",
+      "description": ""
+    }
+  },
+  {
+    "impacted_area_number": 7,
+    "negative_side": {
+      "area": "Common Bathroom-2",
+      "location": "Ceiling",
+      "issue": "Dampness",
+      "description": ""
+    },
+    "positive_side": {
+      "area": "Flat No. 203 tile joint open and",
+      "issue": "Unknown issue",
+      "description": ""
+    }
+  }
+]

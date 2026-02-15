@@ -1,0 +1,144 @@
+DUE DILIGENCE REPORT (DDR)
+Property Inspection Findings
+
+Report Date: 15 February 2026
+Report Type: Defect Detection Report
+
+------------------------------------------------------------
+
+EXECUTIVE SUMMARY:
+
+Seven areas across the property are affected by water ingress, primarily due to continuous leakage patterns observed throughout the property. The primary contributors include tile joint failures, concealed plumbing leakage, and external wall defects. Overall severity is High due to widespread and persistent dampness.
+
+IMPACTED AREAS OVERVIEW:
+
+1. Hall
+2. Bedroom
+3. Master Bedroom
+4. Kitchen
+5. Master Bedroom-2
+6. Parking Area
+7. Common Bathroom-2
+
+DETAILED OBSERVATIONS:
+
+IMPACTED AREA 1: Hall
+Problem: Dampness
+Location: Skirting level
+Description: Dampness observed, consistent with previous reports.
+Source: Common Bathroom
+Source Issue: Tile joint gaps
+Root Cause: Tile Joint Failure
+Mechanism: Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side
+Severity: High
+
+IMPACTED AREA 2: Bedroom
+Problem: Dampness
+Location: Skirting level
+Description: Dampness observed, consistent with previous reports.
+Source: Common Bathroom
+Source Issue: Tile joint gaps
+Root Cause: Tile Joint Failure
+Mechanism: Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side
+Severity: High
+
+IMPACTED AREA 3: Master Bedroom
+Problem: Dampness
+Location: Skirting level
+Description: Dampness observed, consistent with previous reports.
+Source: Master Bedroom Bathroom
+Source Issue: Tile joint gaps
+Root Cause: Tile Joint Failure
+Mechanism: Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side
+Severity: High
+
+IMPACTED AREA 4: Kitchen
+Problem: Dampness
+Location: Skirting level
+Description: Dampness observed, consistent with previous reports.
+Source: Master Bedroom Bathroom
+Source Issue: Tile joint gaps
+Root Cause: Tile Joint Failure
+Mechanism: Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side
+Severity: High
+
+IMPACTED AREA 5: Master Bedroom-2
+Problem: Dampness and Efflorescence
+Location: Wall surface
+Description: Dampness and efflorescence observed due to external wall issues.
+Source: External wall crack and duct issue
+Source Issue: External wall issues
+Root Cause: External Wall Defect
+Mechanism: Rainwater enters through cracks in external wall surface, causing internal dampness and efflorescence
+Severity: Moderate
+
+IMPACTED AREA 6: Parking Area
+Problem: Seepage
+Location: Ceiling
+Description: Visual indicators suggest seepage but further investigation is required.
+Source: Common Bathroom plumbing issue and tile joint gaps
+Source Issue: Plumbing problems
+Root Cause: Concealed Plumbing Leakage
+Mechanism: Leaking pipes within walls or floor slabs allow continuous water seepage, causing persistent dampness
+Severity: Moderate
+
+IMPACTED AREA 7: Common Bathroom-2
+Problem: Dampness
+Location: Ceiling
+Description: Dampness observed, consistent with previous reports.
+Source: Flat No. 203 tile joint open and
+Source Issue: Unknown issue
+Root Cause: Requires Investigation
+Mechanism: Not enough data to determine water pathway
+Severity: Moderate
+
+ROOT CAUSE ANALYSIS:
+
+A. Tile Joint Failure
+- Areas affected: Hall, Bedroom, Master Bedroom, Kitchen, Common Bathroom-2
+- Evidence: Checklist confirms gaps in tile joints
+
+B. Concealed Plumbing Leakage
+- Areas affected: Parking Area, Common Bathroom-2
+- Evidence: Checklist confirms concealed plumbing leakage and loose plumbing joints
+
+C. External Wall Defect
+- Areas affected: Master Bedroom-2
+- Evidence: Checklist shows moderate cracks on external surface and cracked external plumbing pipes
+
+MISSING OR UNCLEAR INFORMATION
+
+- Hidden plumbing conditions behind walls not inspected
+- Structural elements behind wall finishes not visible
+- No thermal imaging data available
+- Seasonal variation in leakage not assessed (single inspection)
+- Exact pipe locations in concealed plumbing not mapped
+- Water pressure testing not conducted
+- Terrace waterproofing condition not inspected (relevant for top floor units)
+- Age and condition of original waterproofing not known
+
+CHECKLIST FINDINGS
+
+- Leakage timing: All time
+- Concealed plumbing leakage: Yes
+- Tile joint gaps: Yes
+- Gaps around nahani trap: Yes
+- Loose plumbing joints: Yes
+- External wall cracks: Moderate
+- Internal WC/Bath leakage: Yes
+
+CONCLUSION
+
+Multiple areas of the property are affected by water ingress issues.
+Primary contributors include tile joint failures, concealed plumbing leakage, and external wall defects.
+Further investigation is needed for concealed conditions behind walls and floors.
+
+------------------------------------------------------------
+
+DISCLAIMER
+This report is based on visual inspection findings.
+Root causes mentioned are probable and need verification.
+Hidden conditions behind walls and floors were not inspected.
+Recommendations should be verified by qualified professionals.
+
+END OF REPORT

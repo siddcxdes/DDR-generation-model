@@ -1,0 +1,15 @@
+Now let me be honest about the limitations.
+
+First - this only works for text-based PDFs. If someone gives me 
+a scanned document, pdfplumber won't work. I'd need OCR.
+
+Second - I'm using a local LLM which is smaller and less accurate 
+than something like GPT-4. But it runs offline and is free.
+
+Third - the root cause logic is hardcoded. If a new type of 
+issue comes up that's not tile joints, plumbing, or wall defects, 
+the system won't categorize it properly.
+
+Fourth - no image analysis. The PDF has photos but I'm only 
+extracting text. So I might miss something that's only visible 
+in the images."

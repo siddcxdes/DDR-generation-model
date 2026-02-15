@@ -1,0 +1,162 @@
+{
+  "overall_assessment": {
+    "total_impacted_areas": 7,
+    "overall_severity": "High",
+    "overall_severity_reason": "Multiple areas affected with continuous leakage pattern observed throughout the property",
+    "severity_factors": [
+      "Leakage is continuous (observed all time)",
+      "Multiple areas affected across the property",
+      "Multiple root causes: tile joint failures, plumbing issues, and external wall defects"
+    ]
+  },
+  "observations_with_reasoning": [
+    {
+      "impacted_area_number": 1,
+      "affected_area": "Hall",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Common Bathroom",
+      "source_issue": "Tile joint gaps",
+      "root_cause_category": "Tile Joint Failure",
+      "root_cause_detail": {
+        "cause": "Tile joint gaps and hollowness in Common Bathroom",
+        "mechanism": "Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side",
+        "supporting_evidence": "Checklist confirms gaps in tile joints and around nahani trap"
+      },
+      "severity": "High",
+      "severity_reason": "Same root cause affects 4 areas with continuous leakage",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 2,
+      "affected_area": "Bedroom",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Common Bathroom",
+      "source_issue": "Tile joint gaps",
+      "root_cause_category": "Tile Joint Failure",
+      "root_cause_detail": {
+        "cause": "Tile joint gaps and hollowness in Common Bathroom",
+        "mechanism": "Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side",
+        "supporting_evidence": "Checklist confirms gaps in tile joints and around nahani trap"
+      },
+      "severity": "High",
+      "severity_reason": "Same root cause affects 4 areas with continuous leakage",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 3,
+      "affected_area": "Master Bedroom",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Master Bedroom Bathroom",
+      "source_issue": "Tile joint gaps",
+      "root_cause_category": "Tile Joint Failure",
+      "root_cause_detail": {
+        "cause": "Tile joint gaps and hollowness in Master Bedroom Bathroom",
+        "mechanism": "Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side",
+        "supporting_evidence": "Checklist confirms gaps in tile joints and around nahani trap"
+      },
+      "severity": "High",
+      "severity_reason": "Same root cause affects 4 areas with continuous leakage",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 4,
+      "affected_area": "Kitchen",
+      "affected_location": "Skirting level",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Master Bedroom Bathroom",
+      "source_issue": "Tile joint gaps",
+      "root_cause_category": "Tile Joint Failure",
+      "root_cause_detail": {
+        "cause": "Tile joint gaps and hollowness in Master Bedroom Bathroom",
+        "mechanism": "Water seeps through gaps in tile joints during usage, travels through the substrate, and appears as dampness on the negative side",
+        "supporting_evidence": "Checklist confirms gaps in tile joints and around nahani trap"
+      },
+      "severity": "High",
+      "severity_reason": "Same root cause affects 4 areas with continuous leakage",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 5,
+      "affected_area": "Master Bedroom-2",
+      "affected_location": "Wall surface",
+      "issue_observed": "Dampness and Efflorescence",
+      "issue_description": "",
+      "source_area": "External wall crack and duct issue",
+      "source_issue": "External wall issues",
+      "root_cause_category": "External Wall Defect",
+      "root_cause_detail": {
+        "cause": "Cracks and defects in external wall",
+        "mechanism": "Rainwater enters through cracks in external wall surface, causing internal dampness and efflorescence",
+        "supporting_evidence": "Checklist confirms moderate cracks on external surface and cracked external plumbing pipes"
+      },
+      "severity": "Moderate",
+      "severity_reason": "Multiple areas affected or plumbing system involved",
+      "needs_further_investigation": false
+    },
+    {
+      "impacted_area_number": 6,
+      "affected_area": "Parking Area",
+      "affected_location": "Ceiling",
+      "issue_observed": "Seepage",
+      "issue_description": "",
+      "source_area": "Common Bathroom plumbing issue and tile joint gaps",
+      "source_issue": "Plumbing problems",
+      "root_cause_category": "Concealed Plumbing Leakage",
+      "root_cause_detail": {
+        "cause": "Concealed plumbing leakage in Common Bathroom plumbing issue and tile joint gaps",
+        "mechanism": "Leaking pipes within walls or floor slabs allow continuous water seepage, causing persistent dampness",
+        "supporting_evidence": "Checklist confirms concealed plumbing leakage and loose plumbing joints"
+      },
+      "severity": "Moderate",
+      "severity_reason": "Multiple areas affected or plumbing system involved. Based on visual indicators; requires further investigation",
+      "needs_further_investigation": true
+    },
+    {
+      "impacted_area_number": 7,
+      "affected_area": "Common Bathroom-2",
+      "affected_location": "Ceiling",
+      "issue_observed": "Dampness",
+      "issue_description": "",
+      "source_area": "Flat No. 203 tile joint open and",
+      "source_issue": "Unknown issue",
+      "root_cause_category": "Requires Investigation",
+      "root_cause_detail": {
+        "cause": "Source requires further investigation",
+        "mechanism": "Not enough data to determine water pathway",
+        "supporting_evidence": "Additional inspection needed"
+      },
+      "severity": "Moderate",
+      "severity_reason": "Multiple areas affected or plumbing system involved",
+      "needs_further_investigation": false
+    }
+  ],
+  "checklist_findings": {
+    "leakage_timing": "All time",
+    "concealed_plumbing_leakage": "Yes",
+    "nahani_trap_damage": "Yes",
+    "tile_joint_gaps": "Yes",
+    "gaps_around_nahani_trap": "Yes",
+    "loose_plumbing_joints": "Yes",
+    "external_wall_cracks": "Moderate",
+    "external_plumbing_pipes_cracked": "Moderate",
+    "algae_fungus_on_external_wall": "Moderate",
+    "internal_wc_bath_leakage": "Yes"
+  },
+  "missing_information": [
+    "Hidden plumbing conditions behind walls not inspected",
+    "Structural elements behind wall finishes not visible",
+    "No thermal imaging data available",
+    "Seasonal variation in leakage not assessed (single inspection)",
+    "Exact pipe locations in concealed plumbing not mapped",
+    "Water pressure testing not conducted",
+    "Terrace waterproofing condition not inspected (relevant for top floor units)",
+    "Age and condition of original waterproofing not known"
+  ]
+}

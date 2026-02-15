@@ -1,0 +1,63 @@
+# Phase 7: Manual Validation Checklist
+# Save this as a reference for validating the DDR report
+
+DDR VALIDATION CHECKLIST
+========================
+
+Instructions: After running the pipeline, use this checklist to validate the final DDR report.
+
+FILE TO REVIEW: output/final_ddr.txt
+
+
+1. NO HALLUCINATED FACTS
+------------------------
+[ ] All areas mentioned exist in the original PDF report
+[ ] All issue types match what was in the original report
+[ ] No invented severity levels or descriptions
+[ ] No made-up root causes that weren't implied by the data
+
+
+2. AREAS MATCH THE REPORT
+-------------------------
+[ ] Hall observations are correct
+[ ] Kitchen observations are correct
+[ ] Bedroom observations are correct
+[ ] Bathroom observations are correct
+[ ] Parking area observations are correct
+[ ] All other areas match
+
+
+3. SEVERITY MAKES SENSE
+-----------------------
+[ ] High severity items are genuinely serious
+[ ] Moderate severity items are appropriately rated
+[ ] Low severity items are minor issues
+[ ] Overall severity rating is reasonable
+
+
+4. MISSING INFO CLEARLY STATED
+------------------------------
+[ ] "Not Available" used where data was missing
+[ ] No guessing or assumptions made
+[ ] Unclear information is explicitly mentioned
+
+
+5. FORMATTING AND CLARITY
+-------------------------
+[ ] Report follows the required structure
+[ ] Language is simple and clear
+[ ] No technical jargon without explanation
+[ ] Professional tone maintained
+
+
+SIGN-OFF
+--------
+Validated by: _______________________
+Date: _______________________
+Comments: _______________________
+
+
+If any issues found, note them below:
+_____________________________________
+_____________________________________
+_____________________________________
